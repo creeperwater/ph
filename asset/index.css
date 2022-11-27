@@ -1,0 +1,42 @@
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header>img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+main{
+  display: flex;
+}
+main>aside{
+  flex: none;
+  width: 55px;
+}
+main>article{
+  flex: auto;
+}
+main>aside>p{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+main>article{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+footer{
+  border-top: 2px black solid;
+  padding: 5px;
+}
+footer>a{
+  color: black;
+  margin: 5px;
+}
