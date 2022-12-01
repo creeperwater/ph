@@ -2,18 +2,12 @@
 
 专注政治与历史文献收集
 
+## 我们的两个发布渠道
+
 - [Github Pages](https://creeperwater.github.io/ph/)
 - [Telegram Channel](https://t.me/politics_history)
 
 
-## 板块分类
+## 想要投稿？
 
-- [官方](官方)
-- [民间](民间)
-- [左派](左派)
-- [右派](右派)
-
-## 投稿通道
-
-- [Telegram Group](https://t.me/ph_chat)
-- [Github Issue](https://github.com/creeperwater/ph/issues/new)
+[如何投稿？](%E5%A6%82%E4%BD%95%E6%8A%95%E7%A8%BF.md)
