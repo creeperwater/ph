@@ -13,8 +13,9 @@ $('main>aside>p').forEach(ele => {
       content=JSON.parse(res);
       render(content);
       cache[this.textContent]=content;
-    }).catch(()=>{
+    }).catch((rea)=>{
       $('main>article').innerText=`从左侧列表选择一个分类来浏览\n列表加载失败`;
+      console.log(rea);
     })}
   }
 });

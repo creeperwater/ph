@@ -23,7 +23,7 @@
         if(this.status==200){
           resolve(this.responseText);
         }else{
-          reject(this.statusText);
+          reject(this.responseText);
         }
       };
       get.open('GET',url);
